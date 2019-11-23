@@ -1,0 +1,22 @@
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.deps.json
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.dll
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.pdb
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.AssemblyInfoInputs.cache
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.AssemblyInfo.cs
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.dll
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.pdb
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\AuthLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.dll
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\AuthLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.pdb
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.csprojAssemblyReference.cache
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.csproj.CopyComplete
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.deps.json
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.dll
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.pdb
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\AuthLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.dll
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\AuthLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.pdb
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.csprojAssemblyReference.cache
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.AssemblyInfoInputs.cache
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.AssemblyInfo.cs
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.csproj.CopyComplete
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.dll
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.pdb

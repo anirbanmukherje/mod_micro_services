@@ -1,0 +1,15 @@
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.DtoLibrary\bin\Debug\netcoreapp3.0\MOD.DtoLibrary.deps.json
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.DtoLibrary\bin\Debug\netcoreapp3.0\MOD.DtoLibrary.dll
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.DtoLibrary\bin\Debug\netcoreapp3.0\MOD.DtoLibrary.pdb
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.AssemblyInfoInputs.cache
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.AssemblyInfo.cs
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.dll
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.pdb
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\MOD.DtoLibrary\bin\Debug\netcoreapp3.0\MOD.DtoLibrary.deps.json
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\MOD.DtoLibrary\bin\Debug\netcoreapp3.0\MOD.DtoLibrary.dll
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\MOD.DtoLibrary\bin\Debug\netcoreapp3.0\MOD.DtoLibrary.pdb
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.csprojAssemblyReference.cache
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.AssemblyInfoInputs.cache
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.AssemblyInfo.cs
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.dll
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.pdb

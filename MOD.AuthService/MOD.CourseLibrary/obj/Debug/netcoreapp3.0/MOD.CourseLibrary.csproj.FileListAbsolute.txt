@@ -1,0 +1,22 @@
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.CourseLibrary\bin\Debug\netcoreapp3.0\MOD.CourseLibrary.deps.json
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.CourseLibrary\bin\Debug\netcoreapp3.0\MOD.CourseLibrary.dll
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.CourseLibrary\obj\Debug\netcoreapp3.0\MOD.CourseLibrary.csprojAssemblyReference.cache
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.CourseLibrary\obj\Debug\netcoreapp3.0\MOD.CourseLibrary.AssemblyInfoInputs.cache
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.CourseLibrary\obj\Debug\netcoreapp3.0\MOD.CourseLibrary.AssemblyInfo.cs
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.CourseLibrary\bin\Debug\netcoreapp3.0\MOD.CourseLibrary.pdb
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.CourseLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.dll
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.CourseLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.pdb
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.CourseLibrary\obj\Debug\netcoreapp3.0\MOD.CourseLibrary.csproj.CopyComplete
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.CourseLibrary\obj\Debug\netcoreapp3.0\MOD.CourseLibrary.dll
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.CourseLibrary\obj\Debug\netcoreapp3.0\MOD.CourseLibrary.pdb
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\MOD.CourseLibrary\bin\Debug\netcoreapp3.0\MOD.CourseLibrary.deps.json
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\MOD.CourseLibrary\bin\Debug\netcoreapp3.0\MOD.CourseLibrary.dll
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\MOD.CourseLibrary\bin\Debug\netcoreapp3.0\MOD.CourseLibrary.pdb
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\MOD.CourseLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.dll
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\MOD.CourseLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.pdb
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\MOD.CourseLibrary\obj\Debug\netcoreapp3.0\MOD.CourseLibrary.csprojAssemblyReference.cache
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\MOD.CourseLibrary\obj\Debug\netcoreapp3.0\MOD.CourseLibrary.AssemblyInfoInputs.cache
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\MOD.CourseLibrary\obj\Debug\netcoreapp3.0\MOD.CourseLibrary.AssemblyInfo.cs
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\MOD.CourseLibrary\obj\Debug\netcoreapp3.0\MOD.CourseLibrary.csproj.CopyComplete
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\MOD.CourseLibrary\obj\Debug\netcoreapp3.0\MOD.CourseLibrary.dll
+C:\Users\meanvilt45\Desktop\Mentor-On-Demand-Microservice-master\MOD.AuthService\MOD.CourseLibrary\obj\Debug\netcoreapp3.0\MOD.CourseLibrary.pdb
